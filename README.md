@@ -4,14 +4,10 @@ This is a simple and responsive Currency Converter web application built using H
 
 🚀 Features :
 🌐 Real-time currency conversion using API
-
 🔄 Supports multiple currency pairs (like USD to INR, EUR to GBP, etc.)
-
 📱 Fully responsive UI
-
 🧠 Auto-select default currencies (e.g., USD to NPR)
 ⚙️ Handles invalid inputs and API errors gracefully
-
 🎨 Clean and modern user interface
 
 🛠️ Technologies Used : 
