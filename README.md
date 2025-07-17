@@ -11,6 +11,7 @@ This is a simple and responsive Currency Converter web application built using H
 
 🧠 Auto-select default currencies (e.g., USD to NPR)
 ⚙️ Handles invalid inputs and API errors gracefully
+
 🎨 Clean and modern user interface
 
 🛠️ Technologies Used : 
